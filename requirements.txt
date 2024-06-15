@@ -6,4 +6,4 @@ beautifulsoup4
 openai
 pandas
 pydantic
-selenium
+requests
